@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "516650077392",
+    "project_id": "my-hack-x-41643",
+    "storage_bucket": "my-hack-x-41643.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:516650077392:android:2738560db5effe93d7e2d5",
+        "android_client_info": {
+          "package_name": "com.mtl.My_Hack_X"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "516650077392-fii80k7r834fviu7uqc0i6mou6of2r4o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-4x5QSXllKImtWlJhxIj1tjhmvF3BVGM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "516650077392-fii80k7r834fviu7uqc0i6mou6of2r4o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

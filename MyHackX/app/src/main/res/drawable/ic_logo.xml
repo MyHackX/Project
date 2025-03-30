@@ -7,20 +7,20 @@
 
     <!-- Background Circle -->
     <path
-        android:fillColor="@color/purple_200"
+        android:fillColor="@color/primary_light"
         android:pathData="M12,12m-10,0a10,10 0,1 1,20 0a10,10 0,1 1,-20 0"/>
 
     <!-- Code Symbol < > -->
     <path
-        android:fillColor="@color/purple_700"
+        android:fillColor="@color/primary_dark"
         android:pathData="M8,9L4,12L8,15L8,13L6,12L8,11L8,9Z"/>
     <path
-        android:fillColor="@color/purple_700"
+        android:fillColor="@color/primary_dark"
         android:pathData="M16,9L20,12L16,15L16,13L18,12L16,11L16,9Z"/>
 
     <!-- H for Hack -->
     <path
-        android:fillColor="@color/purple_700"
+        android:fillColor="@color/primary_dark"
         android:pathData="M10,7L10,17L11.5,17L11.5,13L12.5,13L12.5,17L14,17L14,7L12.5,7L12.5,11.5L11.5,11.5L11.5,7L10,7Z"/>
 
 </vector> 
